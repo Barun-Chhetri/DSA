@@ -1,4 +1,4 @@
-//2024. Maximize the Confusion of an Exam.
+//2024. Maximize the Confusion of an Exam
 package SlidingWindow;
 
 public class Examconfusion {
