@@ -1,4 +1,4 @@
-//leetcode question
+//Leetcode question
 package SlidingWindow;
 
 public class Countsubstring {
